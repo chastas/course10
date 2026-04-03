@@ -1,8 +1,3 @@
-To replace the placeholder text in your GitHub README.md editor (shown in your second image), copy and paste the code block below.
-
-I have formatted this specifically for the SpaceX Landing Prediction project to make it look professional for Pharma, Tech, and Freelance recruiters.
-
-Markdown
 # Project: SpaceX Falcon 9 Predictive Analytics for Launch Cost Optimization
 **IBM Data Science Professional Certificate | Capstone Project**
 
